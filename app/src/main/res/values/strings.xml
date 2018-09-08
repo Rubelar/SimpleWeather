@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SimpleWeather</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="today_weather_demo">Today Weather Demo</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
